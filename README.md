@@ -89,3 +89,5 @@ $ python animate.py --initial-file initial.csv \
 ## Contribution guide
 
 (...)
+
+This was written by Georgii
