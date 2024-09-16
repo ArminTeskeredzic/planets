@@ -90,4 +90,12 @@ $ python animate.py --initial-file initial.csv \
 
 (...)
 
+
 This was written by Georgii
+
+
+
+This is written by Armin.
+
+Lets myb have a conflict
+
